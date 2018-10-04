@@ -1,0 +1,5 @@
+{
+    "app_name": "Pandas_example",
+    "main_module": "src/main/python/main.py",
+    "author": "Fredrik Boulund"
+}
